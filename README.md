@@ -37,7 +37,7 @@
             <summary> Homeworks</summary>
                 <ul>
                     <li>
-                        <a href="https://github.com/oncado86/CSharpAndAngularCamp/tree/CSharpAndAngularCamp/Day1/Education" target="_blank">Conditionals Loops Methods</a>
+                        <a href="https://github.com/oncado86/CSharpAndAngularCamp/tree/CSharpAndAngularCamp/Day1/Homeworks/h01_Conditionals_Loops_Methods" target="_blank">Conditionals & Loops & Methods</a>
                     </li>
                 </ul>
             </details>
