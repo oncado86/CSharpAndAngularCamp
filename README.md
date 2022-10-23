@@ -32,6 +32,16 @@
                 </ul>
             </details>
         </li>
+        <li>
+            <details>
+            <summary> Homeworks</summary>
+                <ul>
+                    <li>
+                        <a href="https://github.com/oncado86/CSharpAndAngularCamp/tree/CSharpAndAngularCamp/Day1/Education" target="_blank">Conditionals Loops Methods</a>
+                    </li>
+                </ul>
+            </details>
+        </li>
     </ul>
     </details>
     <!--Week2-->
