@@ -48,6 +48,6 @@
 Special thanks to Engin Demiroğ
 <b><a href="https://www.youtube.com/watch?v=S_A_VVSQdpU&list=PLqG356ExoxZVN7rC0KmMo0lvECK97VRZg" target="_blank">>>> C# & Angular Camp <<<</a></b>
 </h2>
-<img src="https://user-images.githubusercontent.com/77399565/197391386-03a10577-b8b6-4c5d-90f6-01098132bd6a.png" class="rounded"/>
+<img src="https://user-images.githubusercontent.com/77399565/197413531-ee7b13dd-adfa-477f-82bc-f64e5cdda8d9.jpeg" class="rounded"/>
 </pre>
 </div>
