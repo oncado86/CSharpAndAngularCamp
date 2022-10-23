@@ -46,7 +46,7 @@
 <pre>
 <h2>
 Special thanks to Engin Demiroğ
-<b><a href="https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87" target="_blank">>>> C# & Angular Camp <<<</a></b>
+<b><a href="https://www.youtube.com/watch?v=S_A_VVSQdpU&list=PLqG356ExoxZVN7rC0KmMo0lvECK97VRZg" target="_blank">>>> C# & Angular Camp <<<</a></b>
 </h2>
 <img src="https://user-images.githubusercontent.com/77399565/197391386-03a10577-b8b6-4c5d-90f6-01098132bd6a.png" class="rounded"/>
 </pre>
