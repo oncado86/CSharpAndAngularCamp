@@ -1,10 +1,13 @@
 <h1> C# and Angular Camp </h1>
-<div align="center" width="100%">
 
+<div align="left" width="100%">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/oncado86/CSharpAndAngularCamp?label=Commit%20Activity&style=plastic">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/oncado86/CSharpAndAngularCamp?label=Last%20Commit&style=plastic">
 <img alt="GitHub" src="https://img.shields.io/github/license/oncado86/CSharpAndAngularCamp?label=License&style=plastic">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=oncado86.CSharpAndAngularCamp&right_color=lightgrey&format=true&left_text=My%20Page%20Visitors">
+</div>
+
+<div align="center" width="100%">
 <br>
 <br>
 <pre>
@@ -14,7 +17,6 @@
 <br>
 <br>
 <h2><code>Contents</code></h2>
-<hr>
 
 <h3>
 <div align="left">
